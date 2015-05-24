@@ -1,0 +1,15 @@
+1. install freepcb.exe and viewmate.exe
+2. launch freepcb and open the file transmitter.fpc
+3. go to file-> generate CAM files
+4. in the window put the tick marks correctly (i've attached the print
+screen view of the window)
+5. click generate(note the destination folder)
+6. launch viewmate and open the file top copper from the cam folder
+7. go to file-> print preview
+8. in that small window put tick mark in "by factor 1" and remove tick
+mark in "to fit page"
+9. now print the page...use hard sheet only........
+
+dont use the file txr.fpc that i've attached in the previous
+mail....use the transmitter.fpc file that i've attached in this
+mail.............

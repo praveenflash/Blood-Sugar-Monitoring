@@ -1,0 +1,2 @@
+create table patient (name varchar2(20), id varchar2(10) primary key, address varchar2(50), phno varchar2(10));
+create table glucoreadin (id varchar2(10) references patient, rdate date, value number(4));
